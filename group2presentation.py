@@ -1,2 +1,3 @@
-print ("Presentation is OVER NOW")
+print ("Presentation is CURRENTLY ONGOING")
+
 
